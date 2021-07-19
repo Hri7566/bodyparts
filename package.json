@@ -1,0 +1,8 @@
+{
+  "name": "bodyparts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hri7566 <hri7566@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
